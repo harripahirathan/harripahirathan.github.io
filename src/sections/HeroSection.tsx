@@ -126,7 +126,7 @@ export default function HeroSection() {
       </div>
 
       {/* Hero portrait with glow */}
-      <div className="pointer-events-none absolute left-1/2 top-1/2 z-10 w-[480px] -translate-x-1/2 -translate-y-1/2 sm:top-auto sm:bottom-8 sm:w-[740px] sm:translate-y-0 md:bottom-12 md:w-[950px] lg:w-[1120px]">
+      <div className="pointer-events-none absolute left-1/2 top-1/2 z-10 w-[380px] -translate-x-1/2 -translate-y-1/2 sm:top-auto sm:bottom-8 sm:w-[560px] sm:translate-y-0 md:bottom-12 md:w-[740px] lg:w-[950px]">
         {/* Glow behind the portrait */}
         <div
           className="absolute left-1/2 top-1/2 h-[80%] w-[80%] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-60"
