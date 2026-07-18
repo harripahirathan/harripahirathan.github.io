@@ -40,12 +40,12 @@ const EXPERIENCE = [
 ];
 
 const LOGOS = [
-  { src: '/images/logos/zeitview.png', alt: 'Zeitview' },
-  { src: '/images/logos/heliolytics.png', alt: 'Heliolytics' },
-  { src: '/images/logos/ivy.jpg', alt: 'Ivy Technology' },
-  { src: '/images/logos/uoft.jpg', alt: 'University of Toronto' },
-  { src: '/images/logos/code-ninjas.jpg', alt: 'Code Ninjas' },
-  { src: '/images/logos/stk.jpg', alt: 'STK Taekwondo' },
+  { src: 'images/logos/zeitview.png', alt: 'Zeitview' },
+  { src: 'images/logos/heliolytics.png', alt: 'Heliolytics' },
+  { src: 'images/logos/ivy.jpg', alt: 'Ivy Technology' },
+  { src: 'images/logos/uoft.jpg', alt: 'University of Toronto' },
+  { src: 'images/logos/code-ninjas.jpg', alt: 'Code Ninjas' },
+  { src: 'images/logos/stk.jpg', alt: 'STK Taekwondo' },
 ];
 
 // Hide any logo image that hasn't been added to public/images/logos yet

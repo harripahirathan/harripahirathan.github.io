@@ -1,24 +1,24 @@
 import { useEffect, useRef, useState } from 'react';
 
 const ROW_ONE = [
-  '/images/friends-japan.jpg',
-  '/images/autumn-umbrella.jpg',
-  '/images/snowboarding.jpg',
-  '/images/forest-portrait.jpg',
-  '/images/buddha-selfie.jpg',
-  '/images/taekwondo-blackbelt.jpg',
-  '/images/hongkong-skyline.jpg',
-  '/images/train-japan.jpg',
+  'images/friends-japan.jpg',
+  'images/autumn-umbrella.jpg',
+  'images/snowboarding.jpg',
+  'images/forest-portrait.jpg',
+  'images/buddha-selfie.jpg',
+  'images/taekwondo-blackbelt.jpg',
+  'images/hongkong-skyline.jpg',
+  'images/train-japan.jpg',
 ];
 
 const ROW_TWO = [
-  '/images/autumn-field.jpg',
-  '/images/christmas-city.png',
-  '/images/taekwondo-nationals.jpg',
-  '/images/dinner-friends.jpg',
-  '/images/soccer-friends.jpg',
-  '/images/harbor-japan.jpg',
-  '/images/deck-selfie.jpg',
+  'images/autumn-field.jpg',
+  'images/christmas-city.png',
+  'images/taekwondo-nationals.jpg',
+  'images/dinner-friends.jpg',
+  'images/soccer-friends.jpg',
+  'images/harbor-japan.jpg',
+  'images/deck-selfie.jpg',
 ];
 
 interface RowProps {

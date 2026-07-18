@@ -55,7 +55,7 @@ function HeroPortrait() {
     <>
       {!videoFailed && (
         <video
-          src="/images/portrait-loop.webm"
+          src="images/portrait-loop.webm"
           autoPlay
           muted
           loop
@@ -77,7 +77,7 @@ function HeroPortrait() {
           </span>
         ) : (
           <img
-            src="/images/portrait.png"
+            src="images/portrait.png"
             alt="3D portrait of Harri"
             onError={() => setImgFailed(true)}
             className="mx-auto w-[63%] object-contain"

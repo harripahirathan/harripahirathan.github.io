@@ -44,7 +44,7 @@ const DECORATIONS = [
 
 const POLAROIDS = [
   {
-    src: '/images/pokemon-picnic.jpg',
+    src: 'images/pokemon-picnic.jpg',
     caption: 'Little me',
     position: 'left-[1%] top-[32%] 2xl:left-[3%]',
     rotate: -7,
@@ -52,7 +52,7 @@ const POLAROIDS = [
     x: -80,
   },
   {
-    src: '/images/pokemon-bridge.jpg',
+    src: 'images/pokemon-bridge.jpg',
     caption: 'Me now',
     position: 'right-[1%] top-[32%] 2xl:right-[3%]',
     rotate: 6,
