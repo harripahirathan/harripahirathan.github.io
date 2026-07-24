@@ -45,6 +45,8 @@ const LOGOS = [
   { src: 'images/logos/ivy.jpg', alt: 'Ivy Technology' },
   { src: 'images/logos/uoft.jpg', alt: 'University of Toronto' },
   { src: 'images/logos/code-ninjas.jpg', alt: 'Code Ninjas' },
+  { src: 'images/logos/crs-networks.png', alt: 'CRS Networks' },
+  { src: 'images/logos/qubyte.jpg', alt: 'QuByte' },
   { src: 'images/logos/stk.jpg', alt: 'STK Taekwondo' },
 ];
 
